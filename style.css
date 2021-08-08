@@ -12,16 +12,16 @@
 }
 
 .invader {
-	background-color: purple;
+	background-color: rgb(2, 43, 156);
 	border-radius: 10px;
 }
 
 .shooter {
-	background-color: green;
+	background-color: rgb(38, 245, 228);
 }
 
 .laser {
-	background-color: orange;
+	background-color: rgb(217, 240, 14);
 }
 
 .boom {
